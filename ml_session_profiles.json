@@ -1,0 +1,69 @@
+{
+  "NEW_YORK": {
+    "session": "NEW_YORK",
+    "win_rate": 0.4118,
+    "avg_pnl": 12.7471,
+    "best_pairs": [
+      "US30",
+      "GBPNZD",
+      "EURAUD",
+      "AUDUSD",
+      "EURNZD"
+    ],
+    "optimal_scan_frequency": 60,
+    "total_trades": 17,
+    "recommendation": "CAUTIOUS"
+  },
+  "LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.6667,
+    "avg_pnl": -11.1,
+    "best_pairs": [
+      "GBPJPY",
+      "USDCAD",
+      "GER40"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 3,
+    "recommendation": "NORMAL"
+  },
+  "UNKNOWN": {
+    "session": "UNKNOWN",
+    "win_rate": 0.25,
+    "avg_pnl": -124.3,
+    "best_pairs": [
+      "GBPJPY",
+      "EURAUD",
+      "US30"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 4,
+    "recommendation": "NORMAL"
+  },
+  "SYDNEY": {
+    "session": "SYDNEY",
+    "win_rate": 0.5333,
+    "avg_pnl": -6.02,
+    "best_pairs": [
+      "AUDJPY",
+      "AUDNZD",
+      "GBPCAD",
+      "NZDUSD",
+      "AUDUSD"
+    ],
+    "optimal_scan_frequency": 60,
+    "total_trades": 15,
+    "recommendation": "CAUTIOUS"
+  },
+  "TOKYO": {
+    "session": "TOKYO",
+    "win_rate": 1.0,
+    "avg_pnl": 6.2,
+    "best_pairs": [
+      "AUDNZD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  }
+}

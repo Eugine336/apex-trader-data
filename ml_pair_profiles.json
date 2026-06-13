@@ -1,0 +1,222 @@
+{
+  "US30": {
+    "pair": "US30",
+    "win_rate": 0.5,
+    "avg_pnl": -77.0,
+    "best_session": "NEW_YORK",
+    "best_regime": "",
+    "avg_spread_cost": 0.0,
+    "total_trades": 4,
+    "confidence": 0.05,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "GER40": {
+    "pair": "GER40",
+    "win_rate": 0.0,
+    "avg_pnl": -60.0,
+    "best_session": "LONDON",
+    "best_regime": "",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "GBPCAD": {
+    "pair": "GBPCAD",
+    "win_rate": 0.6667,
+    "avg_pnl": 0.5667,
+    "best_session": "SYDNEY",
+    "best_regime": "BULLISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 3,
+    "confidence": 0.0375,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "EURNZD": {
+    "pair": "EURNZD",
+    "win_rate": 0.0,
+    "avg_pnl": -4.75,
+    "best_session": "NEW_YORK",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 2,
+    "confidence": 0.025,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "CHFJPY": {
+    "pair": "CHFJPY",
+    "win_rate": 0.3333,
+    "avg_pnl": -1.4333,
+    "best_session": "NEW_YORK",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 3,
+    "confidence": 0.0375,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "EURAUD": {
+    "pair": "EURAUD",
+    "win_rate": 0.3333,
+    "avg_pnl": 4.8333,
+    "best_session": "NEW_YORK",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 3,
+    "confidence": 0.0375,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "GBPNZD": {
+    "pair": "GBPNZD",
+    "win_rate": 1.0,
+    "avg_pnl": 20.5,
+    "best_session": "NEW_YORK",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "GBPAUD": {
+    "pair": "GBPAUD",
+    "win_rate": 0.0,
+    "avg_pnl": -1.75,
+    "best_session": "NEW_YORK",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 2,
+    "confidence": 0.025,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "AUDUSD": {
+    "pair": "AUDUSD",
+    "win_rate": 0.6667,
+    "avg_pnl": 2.3,
+    "best_session": "SYDNEY",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 3,
+    "confidence": 0.0375,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "USDCHF": {
+    "pair": "USDCHF",
+    "win_rate": 0.0,
+    "avg_pnl": -0.9,
+    "best_session": "NEW_YORK",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "XRPUSD": {
+    "pair": "XRPUSD",
+    "win_rate": 0.0,
+    "avg_pnl": -1.0,
+    "best_session": "NEW_YORK",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 2,
+    "confidence": 0.025,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "AUDJPY": {
+    "pair": "AUDJPY",
+    "win_rate": 1.0,
+    "avg_pnl": 6.5,
+    "best_session": "SYDNEY",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 3,
+    "confidence": 0.0375,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "NZDUSD": {
+    "pair": "NZDUSD",
+    "win_rate": 1.0,
+    "avg_pnl": 5.6,
+    "best_session": "SYDNEY",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "AUDNZD": {
+    "pair": "AUDNZD",
+    "win_rate": 1.0,
+    "avg_pnl": 6.3,
+    "best_session": "SYDNEY",
+    "best_regime": "BULLISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 2,
+    "confidence": 0.025,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "UK100": {
+    "pair": "UK100",
+    "win_rate": 0.0,
+    "avg_pnl": -25.0,
+    "best_session": "SYDNEY",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "GBPJPY": {
+    "pair": "GBPJPY",
+    "win_rate": 0.5,
+    "avg_pnl": 0.65,
+    "best_session": "LONDON",
+    "best_regime": "BULLISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 4,
+    "confidence": 0.05,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "EURCAD": {
+    "pair": "EURCAD",
+    "win_rate": 1.0,
+    "avg_pnl": 0.9,
+    "best_session": "SYDNEY",
+    "best_regime": "BULLISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "ETHUSD": {
+    "pair": "ETHUSD",
+    "win_rate": 0.0,
+    "avg_pnl": -77.5,
+    "best_session": "SYDNEY",
+    "best_regime": "BEARISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "EURJPY": {
+    "pair": "EURJPY",
+    "win_rate": 0.0,
+    "avg_pnl": -4.7,
+    "best_session": "SYDNEY",
+    "best_regime": "RANGING",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  },
+  "USDCAD": {
+    "pair": "USDCAD",
+    "win_rate": 1.0,
+    "avg_pnl": 12.7,
+    "best_session": "LONDON",
+    "best_regime": "BULLISH",
+    "avg_spread_cost": 0.0,
+    "total_trades": 1,
+    "confidence": 0.0125,
+    "recommendation": "INSUFFICIENT_DATA"
+  }
+}
