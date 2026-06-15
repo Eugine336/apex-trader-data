@@ -29,31 +29,33 @@
   },
   "UNKNOWN": {
     "session": "UNKNOWN",
-    "win_rate": 0.25,
-    "avg_pnl": -124.3,
+    "win_rate": 0.1111,
+    "avg_pnl": -202.9489,
     "best_pairs": [
       "GBPJPY",
       "EURAUD",
+      "XAUUSD",
+      "BTCUSD",
       "US30"
     ],
     "optimal_scan_frequency": 30,
-    "total_trades": 4,
+    "total_trades": 9,
     "recommendation": "NORMAL"
   },
   "SYDNEY": {
     "session": "SYDNEY",
-    "win_rate": 0.5333,
-    "avg_pnl": -6.02,
+    "win_rate": 0.5556,
+    "avg_pnl": -4.5,
     "best_pairs": [
+      "GBPAUD",
       "AUDJPY",
       "AUDNZD",
       "GBPCAD",
-      "NZDUSD",
       "AUDUSD"
     ],
-    "optimal_scan_frequency": 60,
-    "total_trades": 15,
-    "recommendation": "CAUTIOUS"
+    "optimal_scan_frequency": 30,
+    "total_trades": 18,
+    "recommendation": "NORMAL"
   },
   "TOKYO": {
     "session": "TOKYO",
