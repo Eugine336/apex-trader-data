@@ -1,0 +1,3 @@
+{"type": "entry", "trade_key": "1720718726", "timestamp": "2026-06-22T17:05:08.100915+00:00", "attribution": {"pair": "USDJPY", "direction": "SHORT", "entry_price": 161.512, "timestamp": "2026-06-22T17:05:08.100915+00:00", "world_model_version": 321}}
+{"type": "entry", "trade_key": "1720718953", "timestamp": "2026-06-22T17:05:09.346156+00:00", "attribution": {"pair": "USDCHF", "direction": "LONG", "entry_price": 0.80902, "timestamp": "2026-06-22T17:05:09.346156+00:00", "world_model_version": 322}}
+{"type": "outcome", "trade_key": "1720718726", "timestamp": "2026-06-22T17:05:12.852102+00:00", "outcome": {"pair": "USDJPY", "direction": "", "pnl_r": 0.0, "pnl_pips": 0.0, "pnl_dollars": -0.15, "won": false, "outcome": "LOSS", "exit_cause": "strategic_close"}}
