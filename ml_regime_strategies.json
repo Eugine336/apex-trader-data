@@ -6,8 +6,8 @@
     "optimal_sl_buffer_pips": 3.0,
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
-    "win_rate": 0.3611,
-    "sample_size": 37,
-    "confidence": 0.37
+    "win_rate": 0.3784,
+    "sample_size": 38,
+    "confidence": 0.38
   }
 }

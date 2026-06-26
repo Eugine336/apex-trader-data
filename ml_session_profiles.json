@@ -1,17 +1,17 @@
 {
   "": {
     "session": "",
-    "win_rate": 0.3611,
-    "avg_pnl": -1042.227,
+    "win_rate": 0.3784,
+    "avg_pnl": -1014.5632,
     "best_pairs": [
       "EURAUD",
-      "AUDJPY",
       "GBPUSD",
+      "AUDJPY",
       "USDCAD",
       "EURJPY"
     ],
     "optimal_scan_frequency": 300,
-    "total_trades": 37,
+    "total_trades": 38,
     "recommendation": "AVOID"
   }
 }

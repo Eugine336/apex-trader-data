@@ -212,12 +212,12 @@
   "GBPUSD": {
     "pair": "GBPUSD",
     "win_rate": 1.0,
-    "avg_pnl": 6.1,
+    "avg_pnl": 7.55,
     "best_session": "",
     "best_regime": "",
     "avg_spread_cost": 0.0,
-    "total_trades": 1,
-    "confidence": 0.0125,
+    "total_trades": 2,
+    "confidence": 0.025,
     "recommendation": "INSUFFICIENT_DATA",
     "entry_accuracy": 0.0,
     "management_score": 0.0,
@@ -247,8 +247,8 @@
     "total_trades": 1,
     "confidence": 0.0125,
     "recommendation": "INSUFFICIENT_DATA",
-    "entry_accuracy": null,
-    "management_score": null,
+    "entry_accuracy": 0.0,
+    "management_score": 0.0,
     "optimal_sl_r": null
   },
   "GBPCAD": {
@@ -261,8 +261,8 @@
     "total_trades": 1,
     "confidence": 0.0125,
     "recommendation": "INSUFFICIENT_DATA",
-    "entry_accuracy": null,
-    "management_score": null,
+    "entry_accuracy": 0.0,
+    "management_score": 0.0,
     "optimal_sl_r": null
   },
   "EURAUD": {
@@ -275,8 +275,8 @@
     "total_trades": 1,
     "confidence": 0.0125,
     "recommendation": "INSUFFICIENT_DATA",
-    "entry_accuracy": null,
-    "management_score": null,
+    "entry_accuracy": 0.0,
+    "management_score": 0.0,
     "optimal_sl_r": null
   },
   "XBRUSD": {
@@ -289,8 +289,8 @@
     "total_trades": 1,
     "confidence": 0.0125,
     "recommendation": "INSUFFICIENT_DATA",
-    "entry_accuracy": null,
-    "management_score": null,
+    "entry_accuracy": 0.0,
+    "management_score": 0.0,
     "optimal_sl_r": null
   },
   "AUDNZD": {
@@ -303,8 +303,8 @@
     "total_trades": 1,
     "confidence": 0.0125,
     "recommendation": "INSUFFICIENT_DATA",
-    "entry_accuracy": null,
-    "management_score": null,
+    "entry_accuracy": 0.0,
+    "management_score": 0.0,
     "optimal_sl_r": null
   }
 }
