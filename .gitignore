@@ -1,6 +1,3 @@
 # SQLite WAL temp files only
 *.db-shm
 *.db-wal
-
-# Market data CSVs — re-downloadable via fetch_csv.py / fetch_dukascopy.py
-*.csv
