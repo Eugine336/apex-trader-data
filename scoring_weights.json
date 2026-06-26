@@ -1,0 +1,30 @@
+{
+  "default": {
+    "structure_weight": 20,
+    "ob_h1_weight": 10,
+    "ob_m5_weight": 10,
+    "fvg_weight": 15,
+    "mtf_confluence_weight": 15,
+    "session_weight": 10,
+    "news_weight": 10,
+    "currency_strength_weight": 10,
+    "liquidity_sweep_weight": 8,
+    "volume_weight": 5,
+    "inducement_weight": 5,
+    "wyckoff_weight": 5
+  },
+  "forex": {
+    "structure_weight": 20,
+    "ob_h1_weight": 10,
+    "ob_m5_weight": 10,
+    "fvg_weight": 15,
+    "mtf_confluence_weight": 15,
+    "session_weight": 10,
+    "news_weight": 10,
+    "currency_strength_weight": 10,
+    "liquidity_sweep_weight": 8,
+    "volume_weight": 5,
+    "inducement_weight": 5,
+    "wyckoff_weight": 5
+  }
+}
