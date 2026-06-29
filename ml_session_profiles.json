@@ -2,7 +2,7 @@
   "": {
     "session": "",
     "win_rate": 0.3333,
-    "avg_pnl": -550.99,
+    "avg_pnl": -528.3466,
     "best_pairs": [
       "AUDJPY",
       "GBPUSD",
@@ -11,7 +11,7 @@
       "EURJPY"
     ],
     "optimal_scan_frequency": 300,
-    "total_trades": 70,
+    "total_trades": 73,
     "recommendation": "AVOID"
   },
   "SYDNEY": {
@@ -44,12 +44,14 @@
   "TOKYO": {
     "session": "TOKYO",
     "win_rate": 0.0,
-    "avg_pnl": -1.0,
+    "avg_pnl": -2.3333,
     "best_pairs": [
-      "GBPCAD"
+      "AUDCAD",
+      "GBPCAD",
+      "AUDCHF"
     ],
     "optimal_scan_frequency": 30,
-    "total_trades": 1,
+    "total_trades": 3,
     "recommendation": "NORMAL"
   },
   "JP225|": {
@@ -176,12 +178,12 @@
   "EURUSD|": {
     "session": "",
     "win_rate": 0.0,
-    "avg_pnl": -3.1667,
+    "avg_pnl": -1.5833,
     "best_pairs": [
       "EURUSD"
     ],
     "optimal_scan_frequency": 30,
-    "total_trades": 3,
+    "total_trades": 6,
     "recommendation": "NORMAL"
   },
   "GBPJPY|": {
@@ -454,6 +456,28 @@
     "avg_pnl": -1.0,
     "best_pairs": [
       "GBPCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDCHF|TOKYO": {
+    "session": "TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -6.0,
+    "best_pairs": [
+      "AUDCHF"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDCAD|TOKYO": {
+    "session": "TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": 0.0,
+    "best_pairs": [
+      "AUDCAD"
     ],
     "optimal_scan_frequency": 30,
     "total_trades": 1,
