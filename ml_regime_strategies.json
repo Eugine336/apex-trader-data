@@ -13,13 +13,13 @@
   "TREND": {
     "regime": "TREND",
     "optimal_score_threshold": 90,
-    "optimal_tp_multiplier": 0.8,
+    "optimal_tp_multiplier": 1.0,
     "optimal_sl_buffer_pips": 3.0,
-    "optimal_partial_close_ratio": 0.6,
+    "optimal_partial_close_ratio": 0.5,
     "avg_hold_candles": 0,
-    "win_rate": 0.28,
-    "sample_size": 33,
-    "confidence": 0.33
+    "win_rate": 0.2558,
+    "sample_size": 51,
+    "confidence": 0.51
   },
   "RANGE": {
     "regime": "RANGE",
@@ -28,20 +28,20 @@
     "optimal_sl_buffer_pips": 3.0,
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
-    "win_rate": 0.1739,
-    "sample_size": 26,
-    "confidence": 0.26
+    "win_rate": 0.1935,
+    "sample_size": 34,
+    "confidence": 0.34
   },
   "VOLATILE": {
     "regime": "VOLATILE",
-    "optimal_score_threshold": 82,
-    "optimal_tp_multiplier": 1.2,
-    "optimal_sl_buffer_pips": 1.5,
-    "optimal_partial_close_ratio": 0.4,
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
-    "win_rate": 1.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "win_rate": 0.2,
+    "sample_size": 5,
+    "confidence": 0.05
   },
   "JP225|": {
     "regime": "",
@@ -321,13 +321,13 @@
   "BTCUSD|TREND": {
     "regime": "TREND",
     "optimal_score_threshold": 90,
-    "optimal_tp_multiplier": 0.8,
+    "optimal_tp_multiplier": 1.0,
     "optimal_sl_buffer_pips": 3.0,
-    "optimal_partial_close_ratio": 0.6,
+    "optimal_partial_close_ratio": 0.5,
     "avg_hold_candles": 0,
-    "win_rate": 0.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "win_rate": 0.5,
+    "sample_size": 2,
+    "confidence": 0.02
   },
   "XRPUSD|RANGE": {
     "regime": "RANGE",
@@ -370,8 +370,8 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
-    "sample_size": 2,
-    "confidence": 0.02
+    "sample_size": 3,
+    "confidence": 0.03
   },
   "XBRUSD|RANGE": {
     "regime": "RANGE",
@@ -414,8 +414,8 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "sample_size": 4,
+    "confidence": 0.04
   },
   "AUDUSD|TREND": {
     "regime": "TREND",
@@ -469,8 +469,8 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "sample_size": 2,
+    "confidence": 0.02
   },
   "AUDCHF|TREND": {
     "regime": "TREND",
@@ -480,8 +480,8 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "sample_size": 2,
+    "confidence": 0.02
   },
   "AUDCAD|TREND": {
     "regime": "TREND",
@@ -491,8 +491,8 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
-    "sample_size": 1,
-    "confidence": 0.01
+    "sample_size": 2,
+    "confidence": 0.02
   },
   "NZDCAD|TREND": {
     "regime": "TREND",
@@ -523,9 +523,9 @@
     "optimal_sl_buffer_pips": 3.0,
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
-    "win_rate": 0.0,
-    "sample_size": 2,
-    "confidence": 0.02
+    "win_rate": 0.5,
+    "sample_size": 4,
+    "confidence": 0.04
   },
   "GBPCHF|RANGE": {
     "regime": "RANGE",
@@ -595,14 +595,14 @@
   },
   "USDJPY|TREND": {
     "regime": "TREND",
-    "optimal_score_threshold": 90,
-    "optimal_tp_multiplier": 1.0,
-    "optimal_sl_buffer_pips": 3.0,
-    "optimal_partial_close_ratio": 0.5,
+    "optimal_score_threshold": 82,
+    "optimal_tp_multiplier": 1.4,
+    "optimal_sl_buffer_pips": 1.5,
+    "optimal_partial_close_ratio": 0.3,
     "avg_hold_candles": 0,
-    "win_rate": 0.5,
-    "sample_size": 2,
-    "confidence": 0.02
+    "win_rate": 0.75,
+    "sample_size": 4,
+    "confidence": 0.04
   },
   "EURAUD|RANGE": {
     "regime": "RANGE",
@@ -629,13 +629,13 @@
   "EURAUD|TREND": {
     "regime": "TREND",
     "optimal_score_threshold": 90,
-    "optimal_tp_multiplier": 1.0,
+    "optimal_tp_multiplier": 0.8,
     "optimal_sl_buffer_pips": 3.0,
-    "optimal_partial_close_ratio": 0.5,
+    "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
-    "win_rate": 0.5,
-    "sample_size": 3,
-    "confidence": 0.03
+    "win_rate": 0.3333,
+    "sample_size": 4,
+    "confidence": 0.04
   },
   "CHFJPY|RANGE": {
     "regime": "RANGE",
@@ -645,10 +645,65 @@
     "optimal_partial_close_ratio": 0.6,
     "avg_hold_candles": 0,
     "win_rate": 0.0,
+    "sample_size": 2,
+    "confidence": 0.02
+  },
+  "GBPUSD|TREND": {
+    "regime": "TREND",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 1.0,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.5,
+    "avg_hold_candles": 0,
+    "win_rate": 0.2,
+    "sample_size": 5,
+    "confidence": 0.05
+  },
+  "USDCHF|TREND": {
+    "regime": "TREND",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
     "sample_size": 1,
     "confidence": 0.01
   },
-  "GBPUSD|TREND": {
+  "USDCHF|VOLATILE": {
+    "regime": "VOLATILE",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 3,
+    "confidence": 0.03
+  },
+  "GBPUSD|VOLATILE": {
+    "regime": "VOLATILE",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 1,
+    "confidence": 0.01
+  },
+  "NZDCHF|TREND": {
+    "regime": "TREND",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 1,
+    "confidence": 0.01
+  },
+  "CHFJPY|TREND": {
     "regime": "TREND",
     "optimal_score_threshold": 82,
     "optimal_tp_multiplier": 1.2,
@@ -659,7 +714,40 @@
     "sample_size": 1,
     "confidence": 0.01
   },
-  "USDCHF|TREND": {
+  "AUDJPY|RANGE": {
+    "regime": "RANGE",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 2,
+    "confidence": 0.02
+  },
+  "GBPCAD|RANGE": {
+    "regime": "RANGE",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 2,
+    "confidence": 0.02
+  },
+  "CADCHF|TREND": {
+    "regime": "TREND",
+    "optimal_score_threshold": 90,
+    "optimal_tp_multiplier": 0.8,
+    "optimal_sl_buffer_pips": 3.0,
+    "optimal_partial_close_ratio": 0.6,
+    "avg_hold_candles": 0,
+    "win_rate": 0.0,
+    "sample_size": 1,
+    "confidence": 0.01
+  },
+  "EURCAD|TREND": {
     "regime": "TREND",
     "optimal_score_threshold": 90,
     "optimal_tp_multiplier": 0.8,

@@ -44,14 +44,16 @@
   "TOKYO": {
     "session": "TOKYO",
     "win_rate": 0.0,
-    "avg_pnl": -2.3333,
+    "avg_pnl": -2.36,
     "best_pairs": [
       "AUDCAD",
       "GBPCAD",
+      "CHFJPY",
+      "GBPUSD",
       "AUDCHF"
     ],
     "optimal_scan_frequency": 30,
-    "total_trades": 3,
+    "total_trades": 5,
     "recommendation": "NORMAL"
   },
   "NEW_YORK": {
@@ -68,6 +70,49 @@
     "optimal_scan_frequency": 300,
     "total_trades": 15,
     "recommendation": "AVOID"
+  },
+  "OVERLAP_LONDON_TOKYO": {
+    "session": "OVERLAP_LONDON_TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -4.8,
+    "best_pairs": [
+      "AUDCAD",
+      "EURCHF",
+      "EURAUD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 3,
+    "recommendation": "NORMAL"
+  },
+  "LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.2857,
+    "avg_pnl": -0.6143,
+    "best_pairs": [
+      "USDJPY",
+      "AUDJPY",
+      "EURCHF",
+      "GBPUSD",
+      "GBPCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 7,
+    "recommendation": "NORMAL"
+  },
+  "OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -4.075,
+    "best_pairs": [
+      "CADCHF",
+      "GBPUSD",
+      "EURCAD",
+      "AUDNZD",
+      "GBPCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 8,
+    "recommendation": "NORMAL"
   },
   "JP225|": {
     "session": "",
@@ -672,6 +717,182 @@
     ],
     "optimal_scan_frequency": 30,
     "total_trades": 2,
+    "recommendation": "NORMAL"
+  },
+  "GBPUSD|TOKYO": {
+    "session": "TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -3.6,
+    "best_pairs": [
+      "GBPUSD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "CHFJPY|TOKYO": {
+    "session": "TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -1.2,
+    "best_pairs": [
+      "CHFJPY"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "EURAUD|OVERLAP_LONDON_TOKYO": {
+    "session": "OVERLAP_LONDON_TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -7.5,
+    "best_pairs": [
+      "EURAUD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "EURCHF|OVERLAP_LONDON_TOKYO": {
+    "session": "OVERLAP_LONDON_TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -3.7,
+    "best_pairs": [
+      "EURCHF"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDCAD|OVERLAP_LONDON_TOKYO": {
+    "session": "OVERLAP_LONDON_TOKYO",
+    "win_rate": 0.0,
+    "avg_pnl": -3.2,
+    "best_pairs": [
+      "AUDCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "GBPUSD|LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.0,
+    "avg_pnl": -3.9,
+    "best_pairs": [
+      "GBPUSD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "EURCHF|LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.0,
+    "avg_pnl": -2.9,
+    "best_pairs": [
+      "EURCHF"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDJPY|LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.0,
+    "avg_pnl": -1.8,
+    "best_pairs": [
+      "AUDJPY"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 2,
+    "recommendation": "NORMAL"
+  },
+  "GBPCAD|LONDON": {
+    "session": "LONDON",
+    "win_rate": 0.0,
+    "avg_pnl": -8.4,
+    "best_pairs": [
+      "GBPCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "USDJPY|LONDON": {
+    "session": "LONDON",
+    "win_rate": 1.0,
+    "avg_pnl": 7.25,
+    "best_pairs": [
+      "USDJPY"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 2,
+    "recommendation": "NORMAL"
+  },
+  "GBPUSD|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -3.0,
+    "best_pairs": [
+      "GBPUSD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 2,
+    "recommendation": "NORMAL"
+  },
+  "GBPCAD|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -4.95,
+    "best_pairs": [
+      "GBPCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 2,
+    "recommendation": "NORMAL"
+  },
+  "CADCHF|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -2.9,
+    "best_pairs": [
+      "CADCHF"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDNZD|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -4.7,
+    "best_pairs": [
+      "AUDNZD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "EURCAD|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -3.6,
+    "best_pairs": [
+      "EURCAD"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
+    "recommendation": "NORMAL"
+  },
+  "AUDCHF|OVERLAP_LONDON_NY": {
+    "session": "OVERLAP_LONDON_NY",
+    "win_rate": 0.0,
+    "avg_pnl": -5.5,
+    "best_pairs": [
+      "AUDCHF"
+    ],
+    "optimal_scan_frequency": 30,
+    "total_trades": 1,
     "recommendation": "NORMAL"
   }
 }
