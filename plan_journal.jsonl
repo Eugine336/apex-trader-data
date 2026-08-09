@@ -6,3 +6,4 @@
 {"type": "outcome", "plan_id": "1833576891", "timestamp": "2026-07-30T20:35:07.601786+00:00", "outcome": {"pnl_pips": -9.0, "pnl_dollars": -0.17, "outcome": "LOSS", "exit_cause": "strategic_close"}}
 {"type": "outcome", "plan_id": "1848910429", "timestamp": "2026-08-09T03:15:04.721590+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": -0.13, "outcome": "LOSS", "exit_cause": "strategic_close"}}
 {"type": "outcome", "plan_id": "1848930553", "timestamp": "2026-08-09T05:27:04.346510+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": -0.04, "outcome": "LOSS", "exit_cause": "strategic_close"}}
+{"type": "outcome", "plan_id": "1848981849", "timestamp": "2026-08-09T14:06:13.468260+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": -0.08, "outcome": "LOSS", "exit_cause": "strategic_close"}}
