@@ -12,3 +12,4 @@
 {"type": "outcome", "plan_id": "1849244689", "timestamp": "2026-08-10T00:34:55.868102+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": -0.08, "outcome": "LOSS", "exit_cause": "strategic_close"}}
 {"type": "outcome", "plan_id": "1849374361", "timestamp": "2026-08-10T01:31:16.044853+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": 0.0, "outcome": "LOSS", "exit_cause": "strategic_close"}}
 {"type": "outcome", "plan_id": "1849401947", "timestamp": "2026-08-10T02:00:49.983338+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": 0.03, "outcome": "WIN", "exit_cause": "stop_loss"}}
+{"type": "outcome", "plan_id": "1849627426", "timestamp": "2026-08-10T04:47:32.948337+00:00", "outcome": {"pnl_pips": 0.0, "pnl_dollars": 0.32, "outcome": "WIN", "exit_cause": "strategic_close"}}
